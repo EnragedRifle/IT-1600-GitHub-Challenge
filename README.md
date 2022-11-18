@@ -1,7 +1,8 @@
 # IT-1600-GitHub-Challenge
 
-Hello! I'm Jack, and welcome to my GitHub repository. Check out the links below to get to know more about me and see what I've created with GitHub!
+Hello! I'm Jack, and welcome to my GitHub repository. Check out the files in this repository to get to know more about me and see what I've created with GitHub!
 
-1. (Empty Link - Intro)
-2. (Empty Link - Hockey)
-3. (Empty Link - Filler)
+The following list provides the titles and brief description of what each page contains.
+
+1. (AboutMe.md - Who am I? What do I do? What do I like?)
+2. (Hockey - *The* St. Louis Blues!)
